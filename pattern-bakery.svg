@@ -1,0 +1,75 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bakery-icon { fill: none; stroke: #30533B; stroke-width: 1.2; stroke-linecap: round; stroke-linejoin: round; opacity: 0.12; }
+    </style>
+  </defs>
+  
+  <!-- Croissant -->
+  <g class="bakery-icon" transform="translate(20, 20) scale(0.8)">
+    <path d="M10 25c0-8 7-15 15-15s15 7 15 15c0 5-3 10-7 12-3 1-5 1-8 1s-5 0-8-1c-4-2-7-7-7-12z"/>
+    <path d="M15 18c2-3 5-5 8-5"/>
+    <path d="M25 13c3 0 6 2 8 5"/>
+  </g>
+  
+  <!-- Coffee cup -->
+  <g class="bakery-icon" transform="translate(90, 15) scale(0.8)">
+    <path d="M5 10h20v12c0 6-4 10-10 10s-10-4-10-10V10z"/>
+    <path d="M25 14h4c3 0 5 2 5 5s-2 5-5 5h-4"/>
+    <path d="M10 6c2-2 5-2 7 0"/>
+    <path d="M15 4c2-2 5-2 7 0"/>
+  </g>
+  
+  <!-- Bread loaf -->
+  <g class="bakery-icon" transform="translate(160, 20) scale(0.8)">
+    <path d="M5 15c0-8 7-12 15-12s15 4 15 12v20H5V15z"/>
+    <path d="M10 18c3-2 6-2 10 0"/>
+    <path d="M8 25c4-2 8-2 12 0"/>
+    <path d="M10 32c4-2 8-2 12 0"/>
+  </g>
+  
+  <!-- Cupcake -->
+  <g class="bakery-icon" transform="translate(25, 95) scale(0.8)">
+    <path d="M8 20h24l-3 18H11L8 20z"/>
+    <path d="M6 20c0-6 5-10 10-10 2 0 4 1 6 2 2-1 4-2 6-2 5 0 10 4 10 10"/>
+    <circle cx="20" cy="5" r="3"/>
+  </g>
+  
+  <!-- Cake slice -->
+  <g class="bakery-icon" transform="translate(95, 95) scale(0.8)">
+    <path d="M5 25L20 10l15 15v15H5V25z"/>
+    <path d="M5 25h30"/>
+    <path d="M20 10v15"/>
+    <circle cx="20" cy="20" r="2"/>
+  </g>
+  
+  <!-- Cookie -->
+  <g class="bakery-icon" transform="translate(165, 95) scale(0.8)">
+    <circle cx="20" cy="20" r="14"/>
+    <circle cx="14" cy="16" r="2"/>
+    <circle cx="24" cy="14" r="2"/>
+    <circle cx="18" cy="26" r="2"/>
+    <circle cx="28" cy="24" r="2"/>
+  </g>
+  
+  <!-- Pretzel -->
+  <g class="bakery-icon" transform="translate(20, 160) scale(0.8)">
+    <path d="M20 6c-8 0-14 6-14 13 0 5 3 9 7 11 3 1 4 2 7 2s4-1 7-2c4-2 7-6 7-11 0-7-6-13-14-13z"/>
+    <path d="M10 10c-3 4-3 10 0 14"/>
+    <path d="M30 10c3 4 3 10 0 14"/>
+  </g>
+  
+  <!-- Mug -->
+  <g class="bakery-icon" transform="translate(95, 160) scale(0.8)">
+    <rect x="6" y="8" width="18" height="22" rx="3"/>
+    <path d="M24 14h3c2 0 4 2 4 4s-2 4-4 4h-3"/>
+    <path d="M10 4c1-1 3-1 4 0"/>
+  </g>
+  
+  <!-- Baguette -->
+  <g class="bakery-icon" transform="translate(160, 160) scale(0.8)">
+    <path d="M5 28c2-10 8-20 12-22 4 2 10 12 12 22"/>
+    <path d="M10 22c3-2 6-2 10 0"/>
+    <path d="M12 16c3-2 6-2 9 0"/>
+  </g>
+</svg>
